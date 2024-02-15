@@ -1,0 +1,10 @@
+* {
+    background-color: rgb(213, 220, 221);
+}
+
+.middle_img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
